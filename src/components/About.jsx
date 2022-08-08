@@ -16,7 +16,9 @@ const About = () => {
         <p className="text-white">
           Na mijn studie Chemische Technologie heb ik besloten om mijn carriere voort te zetten in de IT.
           <br />
-          De IT betekent voor mij een wereld vol complexe uitdagingen. Bij elke uitdaging zijn er verschillende invalshoeken om tot een oplossing te komen.
+          De IT betekent voor mij een wereld vol complexe uitdagingen. 
+          <br />
+          Bij elke uitdaging zijn er verschillende invalshoeken om tot een oplossing te komen.
           <br />
           Als IT'er vind ik het belangrijk om altijd te blijven leren. 
           <br />
