@@ -27,7 +27,7 @@ const NavBar = () => {
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed z-10">
       <div>
-        <h1 className="text-5xl font-signature ml-2">Job van der Grijn</h1>
+        <h1 className="text-3xl sm:text-4xl font-bold ml-2">Job van der Grijn</h1>
       </div>
 
       <ul className="hidden md:flex">
