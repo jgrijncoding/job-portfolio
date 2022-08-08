@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-2xl">
+        <p className="text-white text-xl">
           Na mijn studie Chemische Technologie heb ik besloten om mijn carriere voort te zetten in de IT.
           <br />
           De IT betekent voor mij een wereld vol complexe uitdagingen. Bij elke uitdaging zijn er verschillende invalshoeken om tot een oplossing te komen.
@@ -28,7 +28,7 @@ const About = () => {
 
         <br />
 
-        <p className="text-2xl">
+        <p className="text-white text-xl">
           In mijn vrije tijd vind ik het leuk om te sporten en om ondernemend bezig te zijn. 
           <br />
           Als beweging vind ik het heerlijk om hard te lopen of om de mtb-fiets te pakken. 
