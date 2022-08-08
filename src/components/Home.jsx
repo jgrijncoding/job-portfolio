@@ -14,7 +14,7 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center px-4 md:flex-row gap-x-20">
         <div className="flex flex-col justify-center h-full mt-24">
           <h1 className="text-xl sm:text-4xl font-bold text-black w-max">
-            The sky is the limt!
+            The sky is the limit!
           </h1>
           <p className=" text-black font-bold py-4">
             Als Applicatie engineer is het mijn taak om voor de klant de bestaande webapplicatie te ontwikkelen/onderhouden. 
