@@ -20,7 +20,7 @@ const About = () => {
           <br />
           Bij elke uitdaging zijn er verschillende invalshoeken om tot een oplossing te komen.
           <br />
-          Als IT'er vind ik het belangrijk om altijd te blijven leren. 
+          Als IT'er is het belangrijk om je altijd door te ontwikkelen. 
           <br />
           Technologische ontwikkelingen vinden zich namelijk in hoog tempo plaats.
           <br />
